@@ -11,5 +11,8 @@ executable EjerciciosClase
   ghc-options:     -Wall
   other-modules:   
                    Main,
-                   DefinicionPorComprehension
+                   DefinicionPorComprehension,
+                   ConsultaBD,
+                   DefinicionesRecursivas,
+                   DefinicionesRecursionYComprension
 
