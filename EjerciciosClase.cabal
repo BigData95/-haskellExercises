@@ -14,5 +14,6 @@ executable EjerciciosClase
                    DefinicionPorComprehension,
                    ConsultaBD,
                    DefinicionesRecursivas,
-                   DefinicionesRecursionYComprension
+                   DefinicionesRecursionYComprension,
+                   FuncionesSobreCadenas
 
